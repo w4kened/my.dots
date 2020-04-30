@@ -18,7 +18,9 @@ config directory	:
 	urxvt		:		.Xresources                                                                                                                                  
 	;                                                                                                                                  
 	
-...the shell you can download here: https://github.com/ohmybash/oh-my-bash                                                                                                                                  
+...the shell you can download here: https://github.com/ohmybash/oh-my-bash      
+neofetch options: neofetch --block_width 40 --block_height 1 --block_range 5 5 --w3m  --source ~/Documents/mLif9vBF-10.jpg --size 35% --crop_mode auto --yoffset 10 --xoffset 10 --gap 3
+
                                                                                                                                   
 ![alt text](https://github.com/coNNact/my.dots/blob/master/git.jpg)                                                                                                                                   
 ![alt text](https://github.com/coNNact/my.dots/blob/master/git2.jpg)                                                                  

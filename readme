@@ -11,10 +11,10 @@
 	bar		:		PolyBar
 	;
 config directory	:
-	PolyBar		:		~/.config/polybar/config
-	compton		:		~/.config/compton.conf
-	i3		:		~/.config/i3/config
-	urxvt		:		~/.Xresources
+	PolyBar		:		.config/polybar/config
+	compton		:		.config/compton.conf
+	i3		:		.config/i3/config
+	urxvt		:		.Xresources
 	;
 	
 ...the shell you can download here: https://github.com/ohmybash/oh-my-bash

@@ -8,7 +8,8 @@
 	compositor	:		compton-tryone                                                                                                                                  
 	kernel		:		5.4.35-1-MANJARO                                                                                                                                  
 	icons		:		ePapirus                                                                                                                                  
-	bar		:		PolyBar                                                                                                                                  
+	bar		:		PolyBar 
+	code-oss theme	:		Moxer                                         
 	;                                                                                                                                  
 config directory	:                                                                                                                                  
 	PolyBar		:		.config/polybar/config                                                                                                                                  

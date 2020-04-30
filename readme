@@ -1,6 +1,6 @@
  #unixporn
  
- my personal dots files:
+ my personal dots files	:
  	OS		:		Manjaro Linux x86_64
 	shell		:		.oh-my-bash
 	DE		:		i3-gaps
@@ -9,3 +9,10 @@
 	icons		:		ePapirus
 	bar		:		PolyBar
 	;
+config directory	:
+	PolyBar		:		~/.config/polybar/config
+	compton		:		~/.config/compton.conf
+	i3		:		~/.config/i3/config
+	urxvt		:		~/.Xresources
+	;
+				etc...

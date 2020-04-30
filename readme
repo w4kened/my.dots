@@ -4,6 +4,7 @@
  	OS		:		Manjaro Linux x86_64
 	shell		:		.oh-my-bash
 	DE		:		i3-gaps
+	font		:		Monaco
 	compositor	:		compton-tryone
 	kernel		:		5.4.35-1-MANJARO
 	icons		:		ePapirus

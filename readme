@@ -7,4 +7,5 @@
 	compositor	:		compton-tryone
 	kernel		:		5.4.35-1-MANJARO
 	icons		:		ePapirus
+	bar		:		PolyBar
 	;

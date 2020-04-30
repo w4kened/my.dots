@@ -1,0 +1,10 @@
+ #unixporn
+ 
+ my personal dots files:
+ 	OS			:		Manjaro Linux x86_64
+	shell		:		.oh-my-bash
+	DE			:		i3-gaps
+	compositor	:		compton-tryone
+	kernel		:		5.4.35-1-MANJARO
+	icons		:		ePapirus
+	;
